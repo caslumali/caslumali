@@ -48,8 +48,7 @@ Open to **remote consulting, research support, and geospatial projects**.
 | [sentinel2-forest-classification](https://github.com/caslumali/sentinel2-forest-classification) | Sentinel-2 time-series classification workflow in Python for forest species mapping. |
 | [poplar-classification-uncertainty](https://github.com/caslumali/poplar-classification-uncertainty) | Classification uncertainty analysis combining Sentinel-2 confidence rasters and LiDAR-derived variables. |
 | [geojson-parcel-processor-](https://github.com/caslumali/geojson-parcel-processor-) | Python-based parcel processing tool for cadastral workflows and practical GIS output generation. |
-| [ndvi-webmapping-toulouse](https://github.com/caslumali/ndvi-webmapping-toulouse) | WebGIS prototype combining GeoServer, Vue, and Leaflet for temporal NDVI exploration. |
-| [forest-statistics-mixed-models](https://github.com/caslumali/forest-statistics-mixed-models) | Applied statistical modelling for forest inventory data using linear, mixed, and generalized linear models in R. |
+| [ndvi-webmapping-toulouse](https://github.com/caslumali/ndvi-webmapping-toulouse) | WebGIS prototype combining GeoServer, Vue, and Leaflet for temporal NDVI exploration.
 
 ## What this GitHub is for
 
