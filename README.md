@@ -1,47 +1,60 @@
 <!-- COPY FROM HERE -->
 
-# Hi, I'm Lucas Lima 👋
+<div align="center">
 
-**Remote sensing & geomatics specialist** based in Montpellier, France.
+# Lucas Lima
 
-10+ years of field experience in the Amazon, combining territorial knowledge with modern geospatial methods. I work across applied research, environmental monitoring, and technical consulting.
+### Remote Sensing & Geomatics Specialist
 
-MSc in Geomatics — [SIGMA](https://sigma.univ-tlse2.fr/), Université de Toulouse (with distinction)
+From **Amazon field experience** to **reproducible geospatial workflows**.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/caslumali)
+[![Website](https://img.shields.io/badge/lucaslima.fr-000000?style=flat&logo=firefoxbrowser&logoColor=white)](https://lucaslima.fr)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:caslumali@gmail.com)
 
-### 🛰️ What I work with
+</div>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/-Google%20Earth%20Engine-4285F4?style=flat&logo=google-earth&logoColor=white)
-![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat&logo=qgis&logoColor=white)
-![PostGIS](https://img.shields.io/badge/-PostGIS-336791?style=flat&logo=postgresql&logoColor=white)
-![GDAL](https://img.shields.io/badge/-GDAL-5CAE58?style=flat&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+I work at the intersection of **environmental monitoring, spatial analysis, applied research, and geospatial software workflows**. My background combines **10+ years of field and territorial experience in the Amazon** with recent training in geomatics in France.
 
----
+**MSc in Geomatics** — [SIGMA](https://sigma.univ-tlse2.fr/), Université Toulouse 2 Jean Jaurès / INP-ENSAT *(with distinction)*
 
-### 📌 Featured projects
+Open to **remote consulting, research support, and geospatial projects**.
 
-🌳 **[sentinel2-forest-classification](https://github.com/caslumali/sentinel2-forest-classification)**
-Supervised classification of forest tree species using Sentinel-2 time series and Random Forest. Full GDAL memory-based pipeline — no intermediate files.
+## Focus areas
 
-🗺️ **[ndvi-webmapping-toulouse](https://github.com/caslumali/ndvi-webmapping-toulouse)**
-Interactive WebGIS app built with Vue.js, Leaflet, and GeoServer. NDVI temporal exploration with dark mode and chart integration.
+- remote sensing for forest monitoring, classification, and degradation analysis
+- spatial analysis and statistical modelling for environmental and territorial studies
+- reproducible geospatial workflows with Python, R, QGIS, and PostGIS
+- WebGIS and geospatial application prototyping
 
-⚙️ **[geojson-parcel-processor](https://github.com/caslumali/geojson-parcel-processor)**
-Python desktop application for cadastral parcel processing. CLI + GUI + standalone .exe + QGIS API integration.
+## Tools and stack
 
-🌿 **[forest-productivity-modis](https://github.com/caslumali/forest-productivity-modis)**
-Forest productivity and degradation analysis in the Amazon using MODIS EVI time series, with R Shiny interactive dashboard.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=googleearth&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
 
----
+## Selected repositories
 
-### 📫 Contact
+| Repository | What it shows |
+| --- | --- |
+| [forest-productivity-modis](https://github.com/caslumali/forest-productivity-modis) | Forest productivity and degradation analysis in the Amazon using MODIS time series and applied research workflows. |
+| [sentinel2-forest-classification](https://github.com/caslumali/sentinel2-forest-classification) | Sentinel-2 time-series classification workflow in Python for forest species mapping. |
+| [poplar-classification-uncertainty](https://github.com/caslumali/poplar-classification-uncertainty) | Classification uncertainty analysis combining Sentinel-2 confidence rasters and LiDAR-derived variables. |
+| [geojson-parcel-processor-](https://github.com/caslumali/geojson-parcel-processor-) | Python-based parcel processing tool for cadastral workflows and practical GIS output generation. |
+| [ndvi-webmapping-toulouse](https://github.com/caslumali/ndvi-webmapping-toulouse) | WebGIS prototype combining GeoServer, Vue, and Leaflet for temporal NDVI exploration. |
+| [forest-statistics-mixed-models](https://github.com/caslumali/forest-statistics-mixed-models) | Applied statistical modelling for forest inventory data using linear, mixed, and generalized linear models in R. |
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/caslumali)
-[![Website](https://img.shields.io/badge/-lucaslima.fr-000?style=flat&logo=firefox&logoColor=white)](https://lucaslima.fr)
-[![Email](https://img.shields.io/badge/-caslumali@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:caslumali@gmail.com)
+## What this GitHub is for
+
+This profile brings together:
+
+- geospatial methods developed during the SIGMA MSc
+- remote sensing and environmental monitoring workflows
+- technical prototypes in WebGIS and geospatial software
+- public repositories that connect field knowledge with analytical and reproducible methods
