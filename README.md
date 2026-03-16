@@ -47,7 +47,6 @@ I work at the intersection of **environmental monitoring, spatial analysis, appl
 | [forest-productivity-modis](https://github.com/caslumali/forest-productivity-modis) | Forest productivity and degradation analysis in the Amazon using MODIS time series and applied research workflows. |
 | [sentinel2-forest-classification](https://github.com/caslumali/sentinel2-forest-classification) | Sentinel-2 time-series classification workflow in Python for forest species mapping. |
 | [geojson-parcel-processor](https://github.com/caslumali/geojson-parcel-processor) | Python-based parcel processing tool for cadastral workflows and practical GIS output generation. |
-| [poplar-classification-uncertainty](https://github.com/caslumali/poplar-classification-uncertainty) | Uncertainty analysis combining Sentinel-2 confidence rasters, LiDAR metrics, and statistical visualization. |
 
 ## What this GitHub is for
 
