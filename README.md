@@ -14,18 +14,16 @@ From **Amazon field experience** to **reproducible geospatial workflows**.
 
 </div>
 
-I work at the intersection of **environmental monitoring, spatial analysis, applied research, and geospatial software workflows**. My background combines **10+ years of field and territorial experience in the Amazon** with recent training in geomatics in France.
+I work at the intersection of **environmental monitoring, spatial analysis, applied research, and geospatial workflows**. My background combines **10+ years of field and territorial experience in the Amazon** with recent training in geomatics in France.
 
 **MSc in Geomatics** — [SIGMA](https://sigma.univ-tlse2.fr/), Université Toulouse 2 Jean Jaurès / INP-ENSAT *(with distinction)*
 
-Open to **remote consulting, research support, and geospatial projects**.
-
 ## Focus areas
 
-- remote sensing for forest monitoring, classification, and degradation analysis
-- spatial analysis and statistical modelling for environmental and territorial studies
-- reproducible geospatial workflows with Python, R, QGIS, and PostGIS
-- WebGIS and geospatial application prototyping
+- remote sensing for forest monitoring, degradation analysis, and territorial diagnosis
+- spatial analysis and statistical modelling for environmental and land-use questions
+- reproducible geospatial workflows with Python, R, Google Earth Engine, QGIS, and PostGIS
+- cartography, GIS automation, and lightweight WebGIS prototyping
 
 ## Tools and stack
 
@@ -44,17 +42,18 @@ Open to **remote consulting, research support, and geospatial projects**.
 
 | Repository | What it shows |
 | --- | --- |
+| [terramaz](https://github.com/caslumali/terramaz) | Forest and territorial indicators for four Amazonian territories, combining GEE, Python, PyQGIS, R, and cartographic outputs. |
+| [calha-norte-mining-analysis](https://github.com/caslumali/calha-norte-mining-analysis) | Multitemporal remote-sensing case study on illegal mining in the Brazilian Amazon, combining imagery interpretation, territorial evidence, and Earth Engine tools. |
 | [forest-productivity-modis](https://github.com/caslumali/forest-productivity-modis) | Forest productivity and degradation analysis in the Amazon using MODIS time series and applied research workflows. |
 | [sentinel2-forest-classification](https://github.com/caslumali/sentinel2-forest-classification) | Sentinel-2 time-series classification workflow in Python for forest species mapping. |
-| [poplar-classification-uncertainty](https://github.com/caslumali/poplar-classification-uncertainty) | Classification uncertainty analysis combining Sentinel-2 confidence rasters and LiDAR-derived variables. |
-| [geojson-parcel-processor-](https://github.com/caslumali/geojson-parcel-processor-) | Python-based parcel processing tool for cadastral workflows and practical GIS output generation. |
-| [ndvi-webmapping-toulouse](https://github.com/caslumali/ndvi-webmapping-toulouse) | WebGIS prototype combining GeoServer, Vue, and Leaflet for temporal NDVI exploration.
+| [geojson-parcel-processor](https://github.com/caslumali/geojson-parcel-processor) | Python-based parcel processing tool for cadastral workflows and practical GIS output generation. |
+| [poplar-classification-uncertainty](https://github.com/caslumali/poplar-classification-uncertainty) | Uncertainty analysis combining Sentinel-2 confidence rasters, LiDAR metrics, and statistical visualization. |
 
 ## What this GitHub is for
 
 This profile brings together:
 
-- geospatial methods developed during the SIGMA MSc
-- remote sensing and environmental monitoring workflows
-- technical prototypes in WebGIS and geospatial software
-- public repositories that connect field knowledge with analytical and reproducible methods
+- applied remote sensing and environmental monitoring projects
+- geospatial analysis and cartographic workflows developed in the SIGMA MSc
+- public case-study repositories derived from real consulting and research work
+- technical prototypes connecting field knowledge, territorial analysis, and reproducible methods
